@@ -13,3 +13,6 @@
 [submodule "Outcast | P0SLZtYY4A1mFhmPFHcM"]
 	path = Outcast | P0SLZtYY4A1mFhmPFHcM
 	url = https://github.com/NazimFilzer/shn-supertokens
+[submodule "MPR | bsFKUTWIn8osQ3RrVLoR"]
+	path = MPR | bsFKUTWIn8osQ3RrVLoR
+	url = https://github.com/joswinemmanuel/SHN.git
