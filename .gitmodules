@@ -10,3 +10,6 @@
 [submodule "Daemons | Ol6Bk7B4zcqOjtYuIren"]
 	path = Daemons | Ol6Bk7B4zcqOjtYuIren
 	url = https://github.com/aravinds-arv/shn-supertokens
+[submodule "Outcast | P0SLZtYY4A1mFhmPFHcM"]
+	path = Outcast | P0SLZtYY4A1mFhmPFHcM
+	url = https://github.com/NazimFilzer/shn-supertokens
